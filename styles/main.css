@@ -31,7 +31,7 @@ footer {visibility: hidden;}
 header {visibility: hidden;}
 
 button, .stDownloadButton button {
-    color: black !important; /* Set text color in the button to black */
+    color: white !important; /* Set text color in the button to black */
 }
 
 .stDownloadButton button {
