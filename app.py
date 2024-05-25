@@ -24,7 +24,7 @@ SOCIAL_MEDIA = {
     "GitHub": "https://github.com/thetabish",
 }
 PROJECTS = {
-    "🏆 Property prices in the UK Dashboard - Analyzing trends in the purchase of properties across different regions in the UK (the link will take a few minutes to load)": "https://dash-app-portfolio-18p5.onrender.com",
+    "🏆 Property prices in the UK Dashboard - Analyzing trends in the purchase of properties across different regions in the UK - Built with Dash - (the link will take a few minutes to load)": "https://dash-app-portfolio-18p5.onrender.com",
 }
 
 
